@@ -1,57 +1,45 @@
 # 📊 Female Workforce Participation & Economic Development
 
-This project explores the relationship between **education systems**, **female labor force participation**, **government policy**, and **economic growth** across eight nations: Japan, China, Germany, the US, the UK, France, Saudi Arabia, and Brazil.
+This project explores the impact of **female labor force participation**, **education systems**, and **government policy** on **economic growth** and **social stability** across eight countries: Japan, China, Germany, the United States, the United Kingdom, France, Saudi Arabia, and Brazil.
 
-Developed as part of the final project for COGS 108 at UC San Diego, this notebook combines real-world economic data, data science techniques, and policy analysis to uncover key drivers of national progress and social stability.
+Using data science techniques and real-world economic indicators, this study identifies key drivers of national development with a focus on gender equity, workforce inclusion, and the role of policy.
 
 ---
 
-## 🔍 Research Question
+## 🔍 Research Focus
 
-**How do education systems, workforce inclusion, and government policies impact economic growth and social stability across countries?**
+**Main Question:**  
+How do education access, female labor participation, and government policies shape a nation’s economic and social outcomes?
 
-We examined metrics such as:
-- Female labor force participation
-- Education enrollment and literacy rates
-- GDP per capita and government education spending
-- Policy indicators (e.g., anti-discrimination laws, childcare support)
+**Key Variables Analyzed:**
+- Female labor force participation  
+- Education enrollment rates and literacy levels  
+- GDP per capita and growth  
+- Government education spending  
+- Social policies (e.g. childcare, equal pay laws, parental leave)
 
 ---
 
 ## 📈 Key Findings
 
-- Countries with higher female workforce participation tend to show stronger, more sustainable GDP growth.
-- Improved education access (especially for women) is consistently correlated with long-term social and economic development.
-- Government investment in education alone isn't enough — success is amplified when paired with targeted social policies (e.g., parental leave, pay equity laws, childcare subsidies).
+- Higher female workforce participation is strongly associated with stronger and more sustained economic growth.  
+- Countries with inclusive education systems and gender-conscious social policies tend to maintain greater stability.  
+- Government expenditure on education is most effective when paired with actionable protections and support for working women.
 
 ---
 
-## 🛠 Tools & Methods
+## 🛠 Tools & Methodology
 
-- Python (pandas, matplotlib, seaborn)
-- Jupyter Notebook
-- Data cleaning, exploratory analysis, correlation studies
-- Public data from sources like the World Bank, OECD, and IMF
-
----
-
-## 🎓 About This Project
-
-This research was conducted by a team of students at UC San Diego as part of the final capstone for **COGS 108: Data Science in Practice**.
-
-**Team Members:**  
-Mamoun Mraish  
-Hannan Ashraf  
-Bassam Malik  
-Umar Khan  
-Mehdi Aziz
-
-[🔗 Final Video Presentation](https://youtu.be/cnkpaxzQVul)
+- Python (pandas, seaborn, matplotlib)  
+- Jupyter Notebook  
+- Statistical correlation and exploratory data analysis  
+- Public datasets from World Bank, OECD, IMF, and other sources
 
 ---
 
 ## 📬 Contact
 
-Feel free to reach out or connect for collaboration or questions:
+For questions, collaborations, or more information, feel free to reach out:
 
 [LinkedIn](https://linkedin.com/in/mamoun-mraish) • [Email](mailto:mraishmamoun87@gmail.com)
+
